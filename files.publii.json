@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "46f45221e80b9ca90b58d9d35417f6d1"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "38a9a0a0ebf26d6a37005cb312912472"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "18d7a3c4aa07ec7313ac48ecd129c6a2"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "efd59cc23e95f0badade3d9e71530220"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4f711070c95f0e7f13e45f76d06728c2"
+    },
+    {
+        "path": "learning-quran-a-journey-toward-light-faith-and-understanding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learning-quran-a-journey-toward-light-faith-and-understanding/index.html",
+        "type": "file",
+        "md5": "e02a3e81e369d93dc03a0589346f4f1c"
+    },
+    {
+        "path": "learning-quran-building-a-strong-foundation-of-faith-and-knowledge",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learning-quran-building-a-strong-foundation-of-faith-and-knowledge/index.html",
+        "type": "file",
+        "md5": "ba26436076d5950870a726f0dc534db1"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download.jfif",
+        "type": "file",
+        "md5": "01db7b4595a26ebc4f7967615f5be4cb"
+    },
+    {
+        "path": "online-quran-reading-bringing-the-holy-quran-closer-to-every-muslim",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-reading-bringing-the-holy-quran-closer-to-every-muslim/index.html",
+        "type": "file",
+        "md5": "a438e0c1e6ebc27d13abbbb57360700b"
+    },
+    {
+        "path": "online-quran-reading-connect-to-the-words-of-allah-from-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-reading-connect-to-the-words-of-allah-from-your-home/index.html",
+        "type": "file",
+        "md5": "3988454e548fbafc1c9f255814ab3dfb"
+    },
+    {
+        "path": "online-quran-reading-discover-the-light-of-the-quran-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-reading-discover-the-light-of-the-quran-from-anywhere/index.html",
+        "type": "file",
+        "md5": "484c0e460ced0a6e80609bd8594a2aca"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b19a2789eab5f1e7d6187ec886c1a66c"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "1968db0f4a2ceba5da903b8ab83b564a"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "3f464f858f260b81319ac9ff0a2056c0"
+    }
+]
